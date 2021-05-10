@@ -5,97 +5,76 @@
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ja-JP">
-
   <lexeme> 
     <grapheme>Virtualization</grapheme>
     <alias>バーチャライゼーション</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>OpenStack</grapheme>
     <alias>オープンスタック</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>Kubernetes</grapheme>
     <alias>クバネティス</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>OpenShift</grapheme>
     <alias>オープンシフト</alias>
   </lexeme>
-
   <lexeme> 
     <grapheme>CodeReady</grapheme>
     <alias>コードレディ</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>Ansible</grapheme>
     <alias>アンシブル</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>Insights</grapheme>
-    <alias>インサイト</alias>
+    <alias>インサイツ</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>RHUI</grapheme>
     <alias>ルイ</alias>
   </lexeme>
-  
   <lexeme>
     <grapheme>JBoss</grapheme>
     <alias>ジェイボス</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>RHUA</grapheme>
     <alias>ルア</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>HAProxy</grapheme>
     <alias>エイチエープロキシ</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>Keepalived</grapheme>
-    <alias>キープアライブド</alias>
-  </lexeme>
-
-  <lexeme>
     <grapheme>keepalived</grapheme>
-    <alias>キープアライブド</alias>
+    <alias>キープアライブディー</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>x86_64</grapheme>
     <alias>エックスハチロクロクヨン</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>glusterfs</grapheme>
     <alias>グラスターエフエス</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>syslog</grapheme>
     <alias>シスログ</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>SELinux</grapheme>
     <alias>エスイーリナックス</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>OSS</grapheme>
     <alias>オーエスエス</alias>
   </lexeme>
-	  <lexeme> 
+  <lexeme> 
     <grapheme>Supermicro</grapheme>
     <alias>スーパーマイクロ</alias>
   </lexeme>
