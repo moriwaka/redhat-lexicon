@@ -83,24 +83,8 @@
     <alias>ブイスフィア</alias>
   </lexeme>
   <lexeme> 
-    <grapheme>RHEL 6</grapheme>
-    <alias>レル シックス</alias>
-  </lexeme>
-  <lexeme> 
-    <grapheme>RHEL 7</grapheme>
-    <alias>レル セブン</alias>
-  </lexeme>
-  <lexeme> 
-    <grapheme>RHEL 8</grapheme>
-    <alias>レル エイト</alias>
-  </lexeme>
-  <lexeme> 
-    <grapheme>RHEL 9</grapheme>
-    <alias>レル ナイン</alias>
-  </lexeme>
-  <lexeme> 
-    <grapheme>RHEL 10</grapheme>
-    <alias>レル テン</alias>
+    <grapheme>RHEL</grapheme>
+    <alias>Red Hat Enterprise Linux</alias>
   </lexeme>
   <lexeme> 
     <grapheme>passwd</grapheme>
